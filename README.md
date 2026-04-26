@@ -1,4 +1,5 @@
 # App4SemanticPhrases
+https://smilechien.shinyapps.io/aac2/?url-link=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC12466245%2F&mode=tfidf_only&autorun=1
 
 **App4SemanticPhrases** is an R/Shiny application for extracting featured semantic phrases from manuscripts and transforming them into co-word network visualizations. The application supports manuscript-oriented phrase extraction, author-keyword protection, top-20 semantic phrase selection, weighted co-occurrence edge construction, FLCA-SIL-MA-style clustering, SSplot visualization, and downloadable reports.
 
